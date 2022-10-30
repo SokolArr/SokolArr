@@ -1,9 +1,11 @@
 <hr>
 
 ```
+🌯 Shawarma
 🌟 Main languages: SQL, Python
 🚩 Have experience with: JavaScript, С, C++
 🎵 Lo-Fi my love
+
 ```
 <hr>
 
