@@ -28,7 +28,7 @@
    <a href="https://github.com/SokolArr?tab=repositories&q=&type=&language=c&sort=">
       <img alt="C " src="https://img.shields.io/badge/c%20-%2300599C.svg?&logo=c&logoColor=white">
    </a>
-   <a>
+   <a href="https://github.com/SokolArr">
       <img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white">
    </a>
 </p>
