@@ -2,8 +2,8 @@
 
 🌟 Main languages: SQL, Python\
 🚩 Have experience with: JavaScript, С, C++\
-🎵 ~~Lo-Fi~~ Synthwave my love
-🌯 Shawarma\
+🎵 ~~Lo-Fi~~ Synthwave my love\
+🌯 Shawarma
 
 <hr>
 
