@@ -1,12 +1,10 @@
 <hr>
 
-```
-🌯 Shawarma
-🌟 Main languages: SQL, Python
-🚩 Have experience with: JavaScript, С, C++
-🎵 Lo-Fi my love
+🌟 Main languages: SQL, Python\
+🚩 Have experience with: JavaScript, С, C++\
+🎵 ~~Lo-Fi~~ Synthwave my love
+🌯 Shawarma\
 
-```
 <hr>
 
 <p align="center">
