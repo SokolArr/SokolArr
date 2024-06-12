@@ -32,6 +32,6 @@ Have experience working with programming technologies since 2021
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/SokolArr"><img src="https://github-readme-stats.vercel.app/api?username=SokolArr&show_icons=true&hide=issues,contribs&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&show_icons=true" alt="SokolArr's GitHub stats" /></a>
+<a href="http://www.github.com/SokolArr"><img src="https://github-readme-stats.vercel.app/api?username=SokolArr&show_icons=true&hide=issues,contribs&title_color=ffffff&text_color=ffffff&icon_color=a855f7&bg_color=000000&hide_border=true&show_icons=true" alt="SokolArr's GitHub stats" /></a>
 
-<a href="https://github.com/SokolArr" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SokolArr&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/SokolArr" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SokolArr&langs_count=5&title_color=ffffff&text_color=ffffff&icon_color=a855f7&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
