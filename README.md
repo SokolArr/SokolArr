@@ -4,8 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software developer | Data engineer
 ----------------------------------
 
-Have experience working with programming technologies since 2021
-🌟 Main languages: Python, SQL
+Have experience working with programming technologies since 2021\
+🌟 Main languages: Python, SQL\
 🚩 Have experience with: JavaScript, С, C++
 
 * 🖥️  See my portfolio at [GitHub](http://github.com/SokolArr?tab=repositories&q=&type=public&language=&sort=)
