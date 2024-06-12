@@ -8,8 +8,6 @@ Have experience working with programming technologies since 2021\
 🌟 Main languages: Python, SQL\
 🚩 Have experience with: JavaScript, С, C++
 
-* 🖥️  See my portfolio at [GitHub](http://github.com/SokolArr?tab=repositories&q=&type=public&language=&sort=)
-
 ### Skills
 
 <p align="left">
